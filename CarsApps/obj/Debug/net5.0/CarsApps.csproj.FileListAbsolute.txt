@@ -1,0 +1,16 @@
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.exe
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.deps.json
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.runtimeconfig.json
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.dll
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\ref\CarsApps.dll
+C:\Users\agilab\source\repos\CarsApps\CarsApps\bin\Debug\net5.0\CarsApps.pdb
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.AssemblyInfo.cs
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.dll
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\ref\CarsApps.dll
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.pdb
+C:\Users\agilab\source\repos\CarsApps\CarsApps\obj\Debug\net5.0\CarsApps.genruntimeconfig.cache
